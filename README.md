@@ -22,3 +22,6 @@ Thanks for your interest in this project. You can show your appreciation and sup
 
 ## License
 **gitlab-ci-example-dotnetcore** © 2018-2020  Tobias Koch. Released under the [MIT License](https://gitlab.com/tobiaskoch/gitlab-ci-example-dotnetcore/blob/master/LICENSE.md).
+
+## Teste
+...
